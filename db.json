@@ -11,6 +11,12 @@
       "text": "Hacer ejercicio de Bootstrap",
       "day": "Agosto 5 a la 17:00",
       "reminder": true
+    },
+    {
+      "text": "Leer mi libro favorito",
+      "day": "Agosto 5 a las 00:00",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
